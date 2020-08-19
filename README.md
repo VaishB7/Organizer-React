@@ -1,2 +1,5 @@
 # Organizer-React
-React Application using Redux Sagas as local storage and Mongo DB for persistent storage.
+[![Organizer-React](https://img.youtube.com/vi/K-cQGXrX_nI/0.jpg)](https://youtu.be/K-cQGXrX_nI)
+
+Description: React Application using Redux Sagas as local storage and Mongo DB for persistent storage.
+Project Done for the Course for PluralSight
